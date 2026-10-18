@@ -1,0 +1,89 @@
+# Steepwise tea file. One [Tea name] section per tea; settings are key = value.
+# Required: type, leaf_g, water_ml, temp_c, steep_s
+# Optional: extend_s (default 15), max_steeps (default 4), price_per_100g,
+#           stock_g (needs counted), counted, opened
+
+[Sencha Yabukita]
+type = green
+leaf_g = 4
+water_ml = 200
+temp_c = 75
+steep_s = 60
+extend_s = 15
+max_steeps = 3
+price_per_100g = 14.80
+stock_g = 90
+counted = 2026-09-01
+opened = 2026-09-01
+
+[Dragon Well]
+type = green
+leaf_g = 3
+water_ml = 150
+temp_c = 80
+steep_s = 45
+max_steeps = 3
+price_per_100g = 11.90
+stock_g = 40
+counted = 2026-08-15
+opened = 2026-08-15
+
+[Silver Needle]
+type = white
+leaf_g = 3
+water_ml = 200
+temp_c = 80
+steep_s = 150
+extend_s = 30
+max_steeps = 3
+price_per_100g = 38.00
+stock_g = 25
+counted = 2026-07-01
+opened = 2026-07-01
+
+[Tieguanyin]
+type = oolong
+leaf_g = 7
+water_ml = 100
+temp_c = 92
+steep_s = 25
+extend_s = 10
+max_steeps = 6
+price_per_100g = 26.40
+stock_g = 60
+counted = 2026-06-10
+opened = 2026-06-10
+
+[Assam Harmutty]
+type = black
+leaf_g = 2.5
+water_ml = 250
+temp_c = 98
+steep_s = 240
+max_steeps = 1
+price_per_100g = 9.25
+stock_g = 0
+counted = 2026-10-01
+opened = 2025-10-20
+
+[Sheng Puerh 2019]
+type = puerh
+leaf_g = 6
+water_ml = 120
+temp_c = 95
+steep_s = 15
+extend_s = 10
+max_steeps = 8
+price_per_100g = 31.00
+stock_g = 150
+counted = 2026-05-20
+opened = 2026-05-20
+
+[Chamomile]
+type = herbal
+leaf_g = 3
+water_ml = 300
+temp_c = 100
+steep_s = 420
+max_steeps = 1
+price_per_100g = 6.50

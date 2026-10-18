@@ -1,0 +1,35 @@
+# A tea file with deliberate problems, for trying `steepwise check`.
+
+[Gyokuro]
+type = greenn
+leaf_g = 5
+water_ml = 80
+temp_c = 60
+steep_s = 90
+price_per_100g = 42.00
+
+[Hojicha]
+type = green
+leaf_g = 4
+water_ml = 200
+temp_c = 100
+steep_s = 20
+stock_g = 30
+colour = brown
+
+[Hojicha]
+type = green
+leaf_g = 4
+water_ml = 200
+temp_c = 90
+steep_s = 20
+
+this line is not a setting
+
+[Jasmine Pearl]
+type = green
+leaf_g = 3
+leaf_g = 4
+water_ml = 200
+temp_c = 80
+steep_s = 60
